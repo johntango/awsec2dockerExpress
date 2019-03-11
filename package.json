@@ -15,6 +15,8 @@
     "aws-cdk": "^0.25.0"
   },
   "dependencies": {
+    "@aws-cdk/aws-ecs": "^0.25.0",
+    "@aws-cdk/aws-elasticloadbalancingv2": "^0.25.0",
     "@aws-cdk/cdk": "^0.25.0",
     "source-map-support": "^0.5.9"
   }
